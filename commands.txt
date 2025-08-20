@@ -31,3 +31,6 @@ command for listing remote
 
 command for branch name
     >git branch
+
+command for git log
+    >git log
