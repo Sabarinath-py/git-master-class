@@ -19,3 +19,15 @@ command for adding all untracked files to staging area
 command for adding all staged files to local repository
     >git commit -m "message"
     
+command for adding remote repository
+    >git remote add name remote_path
+
+command for adding changes in local repo to remote repo
+    >git push -u remote_name branch_name
+    >eg: git push -u luminar master
+
+command for listing remote
+    >git remote -v
+
+command for branch name
+    >git branch
